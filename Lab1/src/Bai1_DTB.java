@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 
  */
-public class DTB {
+public class Bai1_DTB {
 
 	/**
 	 * @param args
