@@ -15,7 +15,7 @@ public class Bai8_TinhTienDienBacThang {
         final double BAC4 = 2536; // 201-300
         final double BAC5 = 2834; // >300
 
-        double tienDien = 0;
+        double tienDien = 0; 
 
         // Tính tiền điện theo bậc thang
         if (kwh <= 50) {

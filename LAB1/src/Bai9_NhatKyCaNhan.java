@@ -45,7 +45,7 @@ public class Bai9_NhatKyCaNhan {
             while (true) {
                 String line = sc.nextLine();
                 if (line.equalsIgnoreCase("END")) break;
-                bw.write(line);
+                bw.write(line); 
                 bw.newLine();
             }
             bw.write("-----"); // ngăn cách các lần ghi
