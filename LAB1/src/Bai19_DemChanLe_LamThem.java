@@ -21,4 +21,4 @@ public class Bai19_DemChanLe_LamThem {
         System.out.println("Số phần tử lẻ = " + le);
         scanner.close();
     }
-}
+} 
